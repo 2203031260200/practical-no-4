@@ -1,0 +1,1 @@
+the average of given list is:5.0
